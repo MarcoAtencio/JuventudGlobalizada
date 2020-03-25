@@ -1,0 +1,103 @@
+/*Opciones generales*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+/*nav*/
+
+.nav {
+    background-color: #75a843;
+    -webkit-box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.4);
+}
+
+/*Contenedor logo*/
+
+.logo {
+    width: 120px;
+    border-radius: 2px;
+    padding: 6px 0;
+}
+.logo-auth {
+    width: 120px;
+    border-radius: 2px;
+}
+
+/*main*/
+.section {
+    height: 100vh;
+}
+
+/* footer*/
+a:hover {
+    text-decoration: none;
+}
+.section-padding {
+    padding: 60px 0;
+}
+.bottom {
+    background-color: #0a1c2e;
+}
+.bottom .copyright {
+    color: #e5e5e5;
+    font-weight: 600;
+}
+.copyright a {
+    color: #f2ff49;
+    margin-left: 3px;
+    padding-right: 3px;
+}
+.bottom p {
+    margin-bottom: 0;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.copyright p span {
+    color: #d1caca;
+}
+.bottom .copyright p,
+.bottom .copyright a:hover {
+    color: #6c6d83;
+}
+
+@media screen and (max-width: 800px) {
+    /*Contenedor logo*/
+    .box-logo {
+        height: 45px;
+    }
+
+    .logo {
+        width: 25px;
+    }
+
+    /*Contenedor opciones*/
+    .box-options {
+        padding-bottom: 15px;
+    }
+
+    .option {
+        font-size: 10px;
+    }
+
+    .option-1 {
+        padding-left: 0px;
+    }
+
+    .option-4 {
+        font-size: 20px;
+    }
+}

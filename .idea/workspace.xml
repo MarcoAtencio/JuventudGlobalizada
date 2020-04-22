@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612a01c7-c49d-4060-9ad4-8ebfa22d8360" name="Default Changelist" comment="" />
+    <list default="true" id="612a01c7-c49d-4060-9ad4-8ebfa22d8360" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/UserSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UserSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,6 +135,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ZGwCmagQ9aDP2cQ2XXKi01QHUm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -169,6 +177,8 @@
       <workItem from="1584745091999" duration="16341000" />
       <workItem from="1584817307939" duration="5554000" />
       <workItem from="1584905572231" duration="7481000" />
+      <workItem from="1587547397382" duration="1011000" />
+      <workItem from="1587591607651" duration="2421000" />
     </task>
     <servers />
   </component>
@@ -184,10 +194,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584477645795" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584905572014">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587591621086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584905572014" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587591621086" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1584581372977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

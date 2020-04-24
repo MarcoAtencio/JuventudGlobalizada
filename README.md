@@ -86,5 +86,5 @@ Admin@example.com   admin
 
 ## Autores ✒
 
-* **Atencio Marco** - *Programador* - [Marco](https://github.com/MarcoAtencio)
+* **Atencio Marco** - *Desarrollador* - [Marco](https://github.com/MarcoAtencio)
 

@@ -2,7 +2,7 @@
 
 _Intranet para una ONG_
 
-## Comenzando 🚀
+## Comenzando 🎗
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
@@ -48,6 +48,7 @@ $ php artisan migrate --seed
 npm install
 ```
 
+
 ## Ejecucion ⚙
 
 _Ejecuta estos comandos_
@@ -76,6 +77,7 @@ _Usuario con todos los privilegios_
 ```
 Admin@example.com   admin
 ```
+
 
 ## Autores ✒
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_

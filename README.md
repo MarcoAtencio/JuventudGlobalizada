@@ -1,4 +1,4 @@
-# Juventud Globalizada
+<p align="center"><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="200" ></p>
 
 _Intranet para una ONG_
 

@@ -26,7 +26,7 @@ Laravel 6*
 ```
 
 
-### Instalación 🔧
+## Instalación 🔧
 
 _Ejecuta estos comandos_
 

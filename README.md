@@ -1,5 +1,6 @@
 <div align="center" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="250"/>
 </div>
+
 ## Introduccion
 
 _Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les podrá dar un seguimiento a los empleados y a los usuarios._

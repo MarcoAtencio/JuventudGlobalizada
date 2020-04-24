@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="260" ></p>
 
-Intranet para una ONG
+## Introduccion
+
+_Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les podrá dar un seguimiento a los empleados y a los usuarios._
+
 
 ## Comenzando 🏅
 
@@ -80,7 +83,6 @@ Admin@example.com   admin
 
 
 ## Autores ✒
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Atencio Marco** - *Programador* - [Marco](https://github.com/MarcoAtencio)
 

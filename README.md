@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="200" ></p>
+<p align="center"><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="260" ></p>
 
-_Intranet para una ONG_
+Intranet para una ONG
 
 ## Comenzando 🏅
 

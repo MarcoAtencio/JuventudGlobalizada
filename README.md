@@ -1,4 +1,4 @@
-<div align="center" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="200"/>
+<div align="center" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" width="250"/>
 </div>
 ## Introduccion
 

@@ -18,7 +18,7 @@ class CreateAttendacesTable extends Migration
             $table->string('employee');
             $table->date('date');
             $table->time('entry');
-            $table->time('exit');
+            $table->time('exit')->nullable();
             $table->timestamps();
         });
     }

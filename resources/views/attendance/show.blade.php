@@ -6,7 +6,7 @@
         <div class="row justify-content-center py-2">
             <div class="col-md-5">
                 <div class="card text-center">
-                    <img src="img/Usuario.jpg" style="width: 5rem;" class="card-img-top mx-auto py-4" alt="foto">
+                    <img src="img/CEO.jpg" style="width: 5rem;" class="card-img-top mx-auto py-4" alt="foto">
                     <div class="text-center">
                         <div id="fecha"></div>
                         <div id="hora"></div>

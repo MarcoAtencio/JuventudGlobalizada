@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="612a01c7-c49d-4060-9ad4-8ebfa22d8360" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AttendaceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AttendaceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_03_17_001547_create_attendaces_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_03_17_001547_create_attendaces_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/attendance/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/attendance/show.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +142,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -181,12 +188,13 @@
       <workItem from="1584905572231" duration="7481000" />
       <workItem from="1587547397382" duration="1011000" />
       <workItem from="1587591607651" duration="2421000" />
-      <workItem from="1587696388675" duration="4291000" />
+      <workItem from="1587696388675" duration="6744000" />
+      <workItem from="1588328145570" duration="2870000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584906335882">
@@ -197,6 +205,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584477645795" />
+    <state x="368" y="8" key="SettingsEditor" timestamp="1588328794051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588328794051" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587696481702">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

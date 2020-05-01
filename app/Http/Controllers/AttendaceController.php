@@ -61,13 +61,13 @@ class AttendaceController extends Controller
                 $attendance= new Attendace;
                 $attendance->employee = $request->dni;
                 $attendance->date = $now->toDateString();
-                $attendance->entry = $now->format('H:m:s');
+                $attendance->entry = $now->format('H:i:s');
                 $attendance->exit = null;
                 $attendance->save();
             }
 
             else{
-                $attend->exit = $now->format('H:m:s');
+                $attend->exit = $now->format('H:i:s');
                 $attend->save();
             }
 

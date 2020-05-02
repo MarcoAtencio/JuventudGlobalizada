@@ -2,8 +2,8 @@
 @section('contenido')
 
     <section class="section py-5">
-        <div class="container">
-            <div class="row justify-content-center">
+        <div class="container py-5">
+            <div class="row justify-content-center py-4">
                 <div class="col-md-8">
                     <div class="card">
                         <div class="card-header">{{ __('Login') }}</div>

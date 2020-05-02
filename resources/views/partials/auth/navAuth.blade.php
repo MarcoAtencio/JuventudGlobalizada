@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark nav">
-    <a class="navbar-brand" href="{{ route('admin') }}"><img src="{{asset('img/logo.png')}}" alt="logo" class="logo-auth"></a>
+    <a class="navbar-brand" href="{{ route('admin') }}"><img src="{{asset('img/resource/logo.png')}}" alt="logo" class="logo-auth"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>

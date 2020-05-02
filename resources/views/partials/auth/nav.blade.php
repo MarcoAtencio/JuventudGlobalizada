@@ -6,9 +6,9 @@
                 <div class="col-12 col-sm-3 box-logo">
                     <div class="media">
                         @if (Request::url() != route('index'))
-                        <a href="{{ route('index') }}"><img src="{{asset('img/logo.png')}}" alt="logo" class="logo"></a>
+                        <a href="{{ route('index') }}"><img src="{{asset('img/resource/logo.png')}}" alt="logo" class="logo"></a>
                         @else
-                        <img src="{{asset('img/logo.png')}}" alt="logo" class="logo">
+                        <img src="{{asset('img/resource/logo.png')}}" alt="logo" class="logo">
                         @endif
                     </div>
                 </div>

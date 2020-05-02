@@ -5,8 +5,8 @@
         <h1 class="text-center">Asistencia de trabajadores</h1>
         <div class="row justify-content-center py-2">
             <div class="col-md-5">
-                <div class="card ">
-                    <img src="img/reloj4.png" style="width: 15rem;" class="card-img-top mx-auto py-4" alt="...">
+                <div class="card form ">
+                    <img src="img/resource/clock.png" style="width: 15rem;" class="card-img-top mx-auto py-4" alt="...">
                     <div class="text-center">
                         <div id="fecha"></div>
                         <div id="hora"></div>

@@ -39,7 +39,7 @@ a:hover {
 /*main*/
 .section {
     height: 100vh;
-    background-image: url("../img/fondo.jpg");
+    background-image: url("../img/resource/background.jpg");
 }
 
 .form {

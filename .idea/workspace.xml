@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="612a01c7-c49d-4060-9ad4-8ebfa22d8360" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/EmployeeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/EmployeeFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/EmployeeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/partials/auth/formEmployee.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/auth/formEmployee.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +186,7 @@
       <workItem from="1587591607651" duration="2421000" />
       <workItem from="1587696388675" duration="6744000" />
       <workItem from="1588328145570" duration="2870000" />
-      <workItem from="1588406483159" duration="2151000" />
+      <workItem from="1588406483159" duration="2521000" />
     </task>
     <servers />
   </component>

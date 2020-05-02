@@ -11,7 +11,7 @@
                             <div class="d-flex justify-content-start">
                                 <h2 class="col-8 align-self-center">Codigo # {{$emp->id}}</h2>
                                 <div class="image-container">
-                                    <img src="http://placehold.it/150x150" id="imgProfile" style="width: 150px; height: 150px" class="img-thumbnail" />
+                                    <img src="/img/employees/{{$emp->photo}}" id="imgProfile" style="width: 150px; height: 150px" class="img-thumbnail" />
                                 </div>
                             </div>
                             <hr />

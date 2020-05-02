@@ -41,7 +41,7 @@
 </div>
 
 <div class="form-group">
-    <label for="exampleFormControlFile1">Photogit</label>
+    <label for="exampleFormControlFile1">Photo</label>
     <input type="file" class="form-control-file" id="exampleFormControlFile1" name="photo">
 </div>
 

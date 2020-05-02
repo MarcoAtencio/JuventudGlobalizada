@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/MarcoAtencio/JuventudGlobalizada" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/logo.png" alt="LOGO" with="250"></a>
+<a href="https://github.com/MarcoAtencio/JuventudGlobalizada" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/resource/logo.png" alt="LOGO" with="250"></a>
 </p>
 
 ## Introduccion
@@ -98,6 +98,9 @@ _DNI Empleado_
 ```
 98765432
 ```
+## Example
+
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" with="250">
 
 ## Autores ✒
 

@@ -4,10 +4,7 @@
 
 ## Introduccion
 
-_Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les dará un seguimiento a los empleados y a los usuarios._
-
-
-## Comenzando 🏅
+_Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les dará un seguimiento a los empleados y a los usuarios._## Comenzando 🏅
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
@@ -53,6 +50,19 @@ $ php artisan migrate --seed
 npm install
 ```
 
+```
+$ php artisan tinker
+```
+
+```
+use Spatie\Permission\Models\Role;
+
+$role = Role::create(['name' => 'SuperAdmin']);
+
+$user = User::find(2);
+
+$user->assignRole('SuperAdmin');
+```
 
 ## Ejecucion ⚙
 
@@ -83,6 +93,11 @@ _Usuario con todos los privilegios_
 Admin@example.com   admin
 ```
 
+_DNI Empleado_
+
+```
+98765432
+```
 
 ## Autores ✒
 

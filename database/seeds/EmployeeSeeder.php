@@ -17,7 +17,8 @@ class EmployeeSeeder extends Seeder
             'name' => 'employee1',
             'lastName' => 'employee1',
             'cellPhone' => '123456789',
-            'email' => 'employee1@example.com'
+            'email' => 'employee1@example.com',
+            'photo' => 'CEO.png',
         ]);
 
         factory(\App\Employee::class,40)->create();

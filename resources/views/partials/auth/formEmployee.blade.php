@@ -40,7 +40,12 @@
     <input type="tel" class="form-control" name="cellPhone" placeholder="+51 999 999 999" aria-label="Username" aria-describedby="basic-addon1" pattern="[0-9]{9}" required value="{{ isset($emp) ? $emp->cellPhone : '' }}">
 </div>
 
-<div class="form-group py-2">
+<div class="form-group">
+    <label for="exampleFormControlFile1">Photogit</label>
+    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="photo">
+</div>
+
+<div class="form-group py-3">
     <button class="btn btn-primary" type="submit">Guardar</button>
     <button class="btn btn-danger" type="reset">Cancelar</button>
 </div>

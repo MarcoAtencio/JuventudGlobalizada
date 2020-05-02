@@ -4,15 +4,7 @@
     <list default="true" id="612a01c7-c49d-4060-9ad4-8ebfa22d8360" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeeMaintenanceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeeMaintenanceController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/SuperMiddleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/SuperMiddleware.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/imagen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/Employee/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/User/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/User/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/Maintenance/User/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Maintenance/User/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_03_17_000917_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_03_17_000917_create_employees_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +186,7 @@
       <workItem from="1587591607651" duration="2421000" />
       <workItem from="1587696388675" duration="6744000" />
       <workItem from="1588328145570" duration="2870000" />
-      <workItem from="1588406483159" duration="961000" />
+      <workItem from="1588406483159" duration="1485000" />
     </task>
     <servers />
   </component>

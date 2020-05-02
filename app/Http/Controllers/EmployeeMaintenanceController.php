@@ -53,7 +53,20 @@ class EmployeeMaintenanceController extends Controller
      */
     public function store(Request $request)
     {
-        Employee::create($request->all());
+        if($request->hasFile('photo')){
+            $file = $request->file('photo');
+            $name = time().$request->lastName .'.png';
+            $file->move(public_path().'/img/employees',$name);
+        }
+        $employee = new Employee();
+        $employee->name = $request->name;
+        $employee->lastName = $request->lastName;
+        $employee->dni = $request->dni;
+        $employee->email = $request->email;
+        $employee->cellPhone = $request->cellPhone;
+        $employee->photo = $name;
+        $employee->save();
+
         return redirect()->route('employees.index');
     }
 

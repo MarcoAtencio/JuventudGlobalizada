@@ -1,7 +1,7 @@
 @extends ('layouts.app')
 @section ('contenido')
-<section class="section">
-    <div class="container py-5">
+<section class="section py-5">
+    <div class="container py-5 form">
         <h2>
             Modificar empleado
         </h2>

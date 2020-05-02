@@ -1,7 +1,7 @@
 @extends ('layouts.app')
 @section ('contenido')
 
-<section class="section">
+<section class="section py-4">
     <div class="container py-5">
         <div class="row ">
             <div class="col-8 mx-auto">

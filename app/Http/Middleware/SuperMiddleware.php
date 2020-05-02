@@ -15,7 +15,7 @@ class SuperMiddleware
      */
     public function handle($request, Closure $next)
     {
-        if($request->user()->hasRole('SupersAdmin')){
+        if($request->user()->hasRole('SuperAdmin')){
             return $next($request);
         }
         else{

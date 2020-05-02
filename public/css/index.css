@@ -39,8 +39,13 @@ a:hover {
 /*main*/
 .section {
     height: 100vh;
+    background-image: url("../img/fondo.jpg");
 }
 
+.form {
+    background: rgba(255,255,255,0.9);
+    border-radius: 6px;
+}
 /* footer*/
 a:hover {
     text-decoration: none;

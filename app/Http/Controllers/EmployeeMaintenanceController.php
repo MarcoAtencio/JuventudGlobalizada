@@ -29,7 +29,7 @@ class EmployeeMaintenanceController extends Controller
         if($request){
             $query = trim($request->get('searchText'));
             $employees = DB::table('employees')->where('name','LIKE','%'.$query.'%')
-                ->paginate(4);
+                ->paginate(5);
             return view('admin.Maintenance.Employee.index',[ "employees" => $employees, "searchText"=>$query]);
         }
 

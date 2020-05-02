@@ -3,7 +3,8 @@
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
 use App\Model;
-use Faker\Generator as Faker;
+
+/**use Faker\Generator as Faker;
 
 $factory->define(\App\Employee::class, function (Faker $faker) {
     return [
@@ -15,3 +16,5 @@ $factory->define(\App\Employee::class, function (Faker $faker) {
         'photo' => 'CEO.jpg',
     ];
 });
+ 
+ */

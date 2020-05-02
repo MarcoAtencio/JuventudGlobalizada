@@ -21,6 +21,6 @@ class EmployeeSeeder extends Seeder
             'photo' => 'CEO.jpg',
         ]);
 
-        factory(\App\Employee::class,40)->create();
+        /**factory(\App\Employee::class,40)->create();*/
     }
 }

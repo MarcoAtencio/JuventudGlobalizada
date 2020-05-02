@@ -100,11 +100,11 @@ _DNI Empleado_
 ```
 # Example
 
-<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Attendance.png" alt="LOGO" with="150">
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Attendance.png" alt="LOGO" style="max-width:75%;">
 
-<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" with="150">
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" style="max-width:75%;">
 
-<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Maintendance.png" alt="LOGO" with="150">
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Maintenance.png" alt="LOGO" style="max-width:75%;">
 
 
 ## Autores ✒

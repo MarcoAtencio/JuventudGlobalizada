@@ -6,7 +6,7 @@
         <div class="row justify-content-center py-2">
             <div class="col-md-5">
                 <div class="card form ">
-                    <img src="img/resource/clock.png" style="width: 15rem;" class="card-img-top mx-auto py-4" alt="...">
+                    <img src="https://juventudglobalizada.herokuapp.com/img/resource/logo.png" style="width: 15rem;" class="card-img-top mx-auto py-4" alt="...">
                     <div class="text-center">
                         <div id="fecha"></div>
                         <div id="hora"></div>

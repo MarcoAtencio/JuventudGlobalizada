@@ -2,7 +2,7 @@
 <a href="https://github.com/MarcoAtencio/JuventudGlobalizada" ><img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/resource/logo.png" alt="LOGO" with="250"></a>
 </p>
 
-## Introduccion
+# Introduccion
 
 _Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les dará un seguimiento a los empleados y a los usuarios._## Comenzando 🏅
 
@@ -98,9 +98,14 @@ _DNI Empleado_
 ```
 98765432
 ```
-## Example
+# Example
 
-<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" with="250">
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Attendance.png" alt="LOGO" with="150">
+
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" with="150">
+
+<img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Maintendance.png" alt="LOGO" with="150">
+
 
 ## Autores ✒
 

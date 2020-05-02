@@ -100,15 +100,15 @@ _DNI Empleado_
 ```
 # Example
 
-####Attendance
+#### Attendance
 
 <img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Attendance.png" alt="LOGO" style="max-width:75%;">
 
-####Login
+#### Login
 
 <img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Login.png" alt="LOGO" style="max-width:75%;">
 
-####Maintenance
+#### Maintenance
 
 <img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Maintenance.png" alt="LOGO" style="max-width:75%;">
 

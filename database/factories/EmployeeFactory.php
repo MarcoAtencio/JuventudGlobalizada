@@ -12,6 +12,6 @@ $factory->define(\App\Employee::class, function (Faker $faker) {
         'dni' => $faker->randomNumber(8,false),
         'cellPhone' => $faker->randomNumber(9,false),
         'email' => $faker->unique()->safeEmail,
-        'photo' => 'CEO.png',
+        'photo' => 'CEO.jpg',
     ];
 });

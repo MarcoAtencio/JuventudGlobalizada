@@ -52,12 +52,15 @@ class AttendaceController extends Controller
         if(empty($emp)){
             return view('attendance.index');
         }
-
         else{
-            $now = Carbon::now();
-            $attend = Attendace::where('date',$now->toDateString())->first();
 
-            if(empty($attend)){
+            $now = Carbon::now();
+            $attend = Attendace::where([
+                ['date',$now->toDateString()],
+                ['employee',$request->dni]
+            ])->first();
+
+            if(empty($attend) ){
                 $attendance= new Attendace;
                 $attendance->employee = $request->dni;
                 $attendance->date = $now->toDateString();
@@ -73,7 +76,7 @@ class AttendaceController extends Controller
 
             $emp = Employee::
             join('attendaces', 'employees.dni', '=', 'attendaces.employee')
-                ->select('attendaces.employee','employees.name', 'employees.lastName', 'attendaces.entry', 'attendaces.exit')
+                ->select('attendaces.employee','employees.name', 'employees.lastName', 'attendaces.entry', 'attendaces.exit','employees.photo')
                 ->where('employees.dni', '=', $request->dni)
                 ->first();
 

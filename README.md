@@ -4,7 +4,9 @@
 
 # Introduccion
 
-_Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les dará un seguimiento a los empleados y a los usuarios._## Comenzando 🏅
+_Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se les dará un seguimiento a los empleados y a los usuarios._
+
+## Comenzando 🏅
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 

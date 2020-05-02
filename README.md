@@ -8,7 +8,6 @@ _Una Intranet en donde los empleados pueden marcar su asistencia y su salida, se
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-
 ### Pre-requisitos 📋
 
 ```
@@ -27,7 +26,6 @@ Node
 Laravel 6*
 ```
 
-
 ## Instalación 🔧
 
 _Ejecuta estos comandos_
@@ -42,7 +40,7 @@ $ cp .env.example .env
 
 _Inicia el MYSQL de tu WAMP O XAMP_
 
-```	
+```
 $ php artisan migrate --seed
 ```
 
@@ -78,7 +76,6 @@ _En tu browser favorito_
 127.0.0.1:8000
 ```
 
-
 ## Autorización 🕵‍
 
 _Usuario de prueba_
@@ -96,8 +93,9 @@ Admin@example.com   admin
 _DNI Empleado_
 
 ```
-98765432
+12345678
 ```
+
 # Example
 
 #### Attendance
@@ -112,8 +110,6 @@ _DNI Empleado_
 
 <img src="https://github.com/MarcoAtencio/JuventudGlobalizada/blob/master/public/img/readme/Maintenance.png" alt="LOGO" style="max-width:75%;">
 
-
 ## Autores ✒
 
-* **Atencio Marco** - *Desarrollador* - [Marco](https://github.com/MarcoAtencio)
-
+-   **Atencio Marco** - _Desarrollador_ - [Marco](https://github.com/MarcoAtencio)

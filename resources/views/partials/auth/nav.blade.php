@@ -3,7 +3,7 @@
         <div class="container-fluid">
 
             <div class="row">
-                <div class="col-12 col-sm-3 box-logo">
+                <div class="col-3 col-sm-3 box-logo">
                     <div class="media">
                         @if (Request::url() != route('index'))
                         <a href="{{ route('index') }}"><img src="https://juventudglobalizada.herokuapp.com/img/resource/logo.png" alt="logo" class="logo"></a>
@@ -14,7 +14,7 @@
                 </div>
 
 
-                <div class="col-12 col-sm-9 box-options align-self-center">
+                <div class="col-9 col-sm-9 box-options align-self-center">
                     @if (Request::url() != route('login'))
                         <div class="row row-options">
                             <div class="col-10">

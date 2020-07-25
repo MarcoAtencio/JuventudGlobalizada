@@ -43,7 +43,7 @@ a:hover {
 }
 
 .form {
-    background: rgba(255,255,255,0.9);
+    background: rgba(255, 255, 255, 0.9);
     border-radius: 6px;
 }
 /* footer*/
@@ -82,11 +82,11 @@ a:hover {
 @media screen and (max-width: 800px) {
     /*Contenedor logo*/
     .box-logo {
-        height: 45px;
+        height: 30px;
     }
 
     .logo {
-        width: 25px;
+        width: 120px;
     }
 
     /*Contenedor opciones*/
